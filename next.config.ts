@@ -12,9 +12,8 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'placehold.co',
-        port: '',
-        pathname: '/**',
+        hostname: 'storage.googleapis.com',
+        pathname: '/techfusion-alchemy-bucket/**',
       },
     ],
   },
