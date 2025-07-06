@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { MapPinIcon } from "@heroicons/react/24/outline";
 
 export function ProfileBlock() {
   return (
@@ -19,9 +20,9 @@ export function ProfileBlock() {
         Zed Interiors
       </h1>
       <p className="mt-6 max-w-2xl text-lg text-muted-foreground">
-      A passionate interior designer and creative thinker with an eye for refined beauty, spatial harmony, and timeless minimalism. 
-      I’m drawn to clean lines, balanced compositions, and the subtle details that transform a room into an experience.
-       Whether styling interiors or crafting digital spaces, I strive to make every design intuitive, elegant, and effortlessly functional.
+      We are a passionate interior design team dedicated to creating spaces that are both functional.
+      As creative thinkers with an eye for refined beauty, spatial harmony, and timeless minimalism, we pride ourselves in creating an impact in any space. 
+      Whether styling interiors or crafting digital spaces, We strive to make every design intuitive, elegant, and effortlessly functional.
       </p>
     </section>
   );

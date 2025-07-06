@@ -3,8 +3,8 @@ import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "Monochrome Muse",
-  description: "A minimalist personal profile page.",
+  title: "Zed Interiors",
+  description: "Design Your Dream Interior Effortlessly with Zed Interiors",
 };
 
 export default function RootLayout({
